@@ -78,9 +78,6 @@
 	* [System Design](#system-design)
 * [Similar repos](#similar-repos)
 
-
-*Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine](https://archive.org/web/).*
-
 ## Algorithms
 
 ### Books
@@ -320,8 +317,9 @@
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
 
 
-## Similar repos
+## Other resources
 
+* [interview questions/solutions](https://github.com/mission-peace/interview)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
