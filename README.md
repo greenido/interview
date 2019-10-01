@@ -76,7 +76,7 @@
 	* [Networking](#networking)
 	* [Operating Systems](#operating-systems)
 	* [System Design](#system-design)
-* [Similar repos](#similar-repos)
+* [Other resources](#similar-repos)
 
 ## Algorithms
 
