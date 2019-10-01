@@ -307,17 +307,15 @@
 
 ## Other resources
 
-* [/kdn251/interviews](https://github.com/kdn251/interviews)
+* [kdn251/interviews](https://github.com/kdn251/interviews)
 
-* [Interview questions/solutions](https://github.com/mission-peace/interview)
+* [mission-peace/interview](https://github.com/mission-peace/interview)
 
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
-
-* [mission-peace/interview](https://github.com/mission-peace/interview)
 
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
