@@ -308,18 +308,35 @@
 ## Other resources
 
 * [/kdn251/interviews](https://github.com/kdn251/interviews)
+
 * [Interview questions/solutions](https://github.com/mission-peace/interview)
+
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
+
 * [mission-peace/interview](https://github.com/mission-peace/interview)
+
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles)
+
 * [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources)
+
 * [blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
+
 * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
+
 * [ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
+
 * [what-happens-when](https://github.com/alex/what-happens-when)
+
 * [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
 * [liwei606/interview](https://github.com/liwei606/interview)
+
 * [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+## 🏔
