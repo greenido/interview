@@ -1,6 +1,51 @@
-[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
+# Interviews
 
-### Contents
+## Questions
+
+1. What do you want to do differently in your next role?
+2. Imagine yourself in three years. What do you hope will be different about you then compared to now?
+3. For the last few companies you've been at, take me through: (i) When you left, why did you leave? (ii) When you joined the next one, why did you choose it?
+4. Among the people you've worked with, who do you admire and why?
+5. Tell me about a time you took unexpected initiative. Follow-up: Can you tell me about another?
+6. What’s something great about your current or previous job? Why?
+7. What motivates you to work?
+8. Looking back on the last five years of your career, what’s the highlight?
+9. What are you really good at, but never want to do anymore?
+10. What’s the difference between someone who’s great in your role versus someone who’s outstanding? 
+11. How did you prepare for this interview?
+12. What do you believe you can achieve with us personally or professionally that you can't anywhere else in the world?
+13. What are the three most important characteristics of this function? How would you stack rank yourself from strongest to least developed among these traits?
+14. Tell me about your ideal next role. What characteristics does it have from a responsibility, team, and company culture perspective? What characteristics does it not have?
+15. It's September 5, 2020. What impact on the business have you made in the year since you’ve joined?
+16. Tell me about a time you strongly disagreed with your manager. What did you do to convince him or her that you were right? What ultimately happened?
+17. Tell me about the best and worst bosses you’ve ever had, specifically, in your career. What was the difference?
+18. What's one part of your previous company's culture that you hope to bring to your next one? What one part do you hope to not find?
+19. When was the last time you changed your mind about something important?
+20. What's the most important thing you've learned from a peer and how have you used that lesson in your day-to-day life?
+21. Tell me about a time you really screwed something up. How did you handle it and how did you address the mistake?
+22. Tell me about a time you made a mistake or failed at something. What did you learn from this experience? Can you give me two other examples?
+23. When have you felt the lowest in your career? Did you realize how you felt in the moment? How did you respond? 
+24. What’s one misconception your coworkers have about you?
+25. What are you better at than most anyone else? What’s your superpower and how will you leverage that to make an impact at this company?
+26. If I were to go and speak to people who don't think very highly of you, what would they say?
+27. What’s one critical piece of feedback you’ve received that was really difficult to hear? Why was it difficult and what did you do with that information? What did you learn about yourself? 
+28. Find a way to give the candidate feedback in the interview.
+29. What was the last thing you nerded out on? 
+30. What are some things outside of work that you’re irrationally passionate about?
+31. What’s the first job you had, that's not on your resume, and what did you learn from that experience?
+32. Why shouldn't we hire you?
+33. What should our team be doing differently that could yield 10x improvement?
+34. Teach me something.
+35. If you were to take over as CEO of your current company tomorrow, and had to increase your company's current rate of growth, what three areas you would invest in?
+36. How would you build a product for people who are looking for an apartment?
+37. What are 10 ways to speed up Domino’s pizza delivery?
+38. What can I tell you about working here?
+39. If you were in my shoes, what attributes would you look for in hiring for this role?
+40. What have I not asked you that I should have?
+
+
+
+## Contents
 
 * [Algorithms](#algorithms)
 	* [Books](#books-1)
