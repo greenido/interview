@@ -62,21 +62,19 @@
 	* [Sites](#sites)
 	* [Videos](#videos)
 * [Languages and technologies](#languages-and-technologies)
-	* [Android](#android)
-	* [ASP.NET](#aspnet)
 	* [JavaScript](#javascript)
 	* [Node](#node)
 	* [PHP](#php)
 	* [Python](#python)
 	* [React](#react)
-* [Other topics](#other-topics)
-	* [Crypto](#crypto)
+* [🚔 Other topics](#other-topics)
+	* [💰 Crypto](#crypto)
 	* [Funny](#funny)
 	* [Maths](#maths)
 	* [Networking](#networking)
 	* [Operating Systems](#operating-systems)
 	* [System Design](#system-design)
-* [Other resources](#similar-repos)
+* [🚗 Other resources](#other-resources)
 
 ## Algorithms
 
@@ -218,17 +216,7 @@
 * Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists [1:12:39]](https://www.youtube.com/watch?v=fIpliB-ton8)
 * Randall Koutnik – [Rethinking the Developer Career Path [25:03]](https://www.youtube.com/watch?v=yIPbE7BssOs)
 
-
 ## Languages and technologies
-
-### Android
-* [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
-* [derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
-
-### ASP.NET
-
-* Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
-* [Top 10 ASP.NET MVC Interview Questions](http://www.codeproject.com/Articles/653746/Top-ASP-NET-MVC-Interview-Questions)
 
 ### C#
 
