@@ -319,7 +319,8 @@
 
 ## Other resources
 
-* [interview questions/solutions](https://github.com/mission-peace/interview)
+* [/kdn251/interviews](https://github.com/kdn251/interviews)
+* [Interview questions/solutions](https://github.com/mission-peace/interview)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
